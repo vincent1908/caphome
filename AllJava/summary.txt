@@ -1,0 +1,1716 @@
+Summary for /www/javadecompilers/app/public/data/06.10.16/0952603120e5f380a92df987b29268f6/selenium-server-standalone-2.52.0(1).jar
+Decompiled with CFR 0_115
+
+
+org.openqa.selenium.Platform
+----------------------------
+
+fromString(java.lang.String )
+  Unable to fully structure code
+
+
+org.openqa.selenium.internal.BuildInfo
+----------------------------
+
+loadBuildProperties()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 18[CATCHBLOCK]
+
+
+org.openqa.selenium.firefox.internal.NewProfileExtensionConnection
+----------------------------
+
+determineNextFreePort(int )
+  Loose catch block
+
+
+org.openqa.selenium.remote.RemoteWebDriver
+----------------------------
+
+window(java.lang.String )
+  Unable to fully structure code
+
+
+org.openqa.selenium.remote.internal.WebElementToJsonConverter
+----------------------------
+
+apply(java.lang.Object )
+  Unable to fully structure code
+
+
+org.openqa.selenium.support.ui.SlowLoadableComponent
+----------------------------
+
+get()
+  Unable to fully structure code
+
+
+org.openqa.selenium.support.ui.FluentWait
+----------------------------
+
+until(com.google.common.base.Function<? super T, V> )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [4[UNCONDITIONALDOLOOP]], but top level block is 3[CATCHBLOCK]
+
+
+org.openqa.selenium.OutputType
+----------------------------
+
+save(byte[] )
+  Loose catch block
+
+
+org.openqa.grid.internal.utils.DefaultCapabilityMatcher
+----------------------------
+
+extractPlatform(java.lang.Object )
+  Unable to fully structure code
+
+
+org.openqa.grid.web.servlet.DriverServlet
+----------------------------
+
+process(javax.servlet.http.HttpServletRequest javax.servlet.http.HttpServletResponse )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.io.SelectorManager
+----------------------------
+
+submit(java.lang.Runnable )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.io.WriteFlusher
+----------------------------
+
+onFail(java.lang.Throwable )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.io.ssl.SslConnection
+----------------------------
+
+fill(java.nio.ByteBuffer )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 34[UNCONDITIONALDOLOOP]
+flush(java.nio.ByteBuffer[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 42[SIMPLE_IF_TAKEN]
+
+
+org.seleniumhq.jetty9.server.CookieCutter
+----------------------------
+
+parseFields()
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.HttpChannel
+----------------------------
+
+handle()
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.HttpOutput
+----------------------------
+
+onCompleteSuccess()
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.InclusiveByteRange
+----------------------------
+
+satisfiableRanges(java.util.Enumeration<java.lang.String> long )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.Response
+----------------------------
+
+sendError(int java.lang.String )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.handler.DebugHandler
+----------------------------
+
+handle(java.lang.String org.seleniumhq.jetty9.server.Request javax.servlet.http.HttpServletRequest javax.servlet.http.HttpServletResponse )
+  Loose catch block
+
+
+org.seleniumhq.jetty9.server.session.HashSessionManager
+----------------------------
+
+restoreSession(java.lang.String )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.server.session.JDBCSessionIdManager
+----------------------------
+
+exists(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 8[TRYBLOCK]
+
+
+org.seleniumhq.jetty9.servlets.DoSFilter
+----------------------------
+
+doFilter(javax.servlet.http.HttpServletRequest javax.servlet.http.HttpServletResponse javax.servlet.FilterChain )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.servlets.QoSFilter
+----------------------------
+
+doFilter(javax.servlet.ServletRequest javax.servlet.ServletResponse javax.servlet.FilterChain )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.util.BlockingArrayQueue
+----------------------------
+
+poll(long java.util.concurrent.TimeUnit )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 6[WHILELOOP]
+remove(java.lang.Object )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 7[CATCHBLOCK]
+
+
+org.seleniumhq.jetty9.util.CompletableCallback
+----------------------------
+
+succeeded()
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.util.IteratingCallback
+----------------------------
+
+processing()
+  Unable to fully structure code
+failed(java.lang.Throwable )
+  Unable to fully structure code
+
+
+org.seleniumhq.jetty9.util.thread.QueuedThreadPool
+----------------------------
+
+run()
+  Loose catch block
+
+
+bsh.BSHSwitchStatement
+----------------------------
+
+eval(bsh.CallStack bsh.Interpreter )
+  Unable to fully structure code
+
+
+bsh.BSHTryStatement
+----------------------------
+
+eval(bsh.CallStack bsh.Interpreter )
+  Unable to fully structure code
+
+
+bsh.BSHWhileStatement
+----------------------------
+
+eval(bsh.CallStack bsh.Interpreter )
+  Unable to fully structure code
+
+
+bsh.JavaCharStream
+----------------------------
+
+adjustBeginLineColumn(int int )
+  Unable to fully structure code
+
+
+bsh.Parser
+----------------------------
+
+MethodDeclaration()
+  Unable to fully structure code
+ImportDeclaration()
+  Unable to fully structure code
+FormalParameter()
+  Unable to fully structure code
+ReturnType()
+  Unable to fully structure code
+CastExpression()
+  Unable to fully structure code
+PrimarySuffix()
+  Unable to fully structure code
+Literal()
+  Unable to fully structure code
+AllocationExpression()
+  Unable to fully structure code
+ArrayDimensions()
+  Unable to fully structure code
+SwitchLabel()
+  Unable to fully structure code
+IfStatement()
+  Unable to fully structure code
+EnhancedForStatement()
+  Unable to fully structure code
+
+
+bsh.Reflect
+----------------------------
+
+findAccessibleField(java.lang.Class java.lang.String )
+  Unable to fully structure code
+
+
+bsh.util.JConsole
+----------------------------
+
+read()
+  Unable to fully structure code
+
+
+org.bouncycastle.crypto.generators.DSAParametersGenerator
+----------------------------
+
+generateParameters_FIPS186_2()
+  Unable to fully structure code
+generateParameters_FIPS186_3()
+  Unable to fully structure code
+
+
+org.bouncycastle.crypto.generators.GOST3410ParametersGenerator
+----------------------------
+
+procedure_B(int int java.math.BigInteger[] )
+  Unable to fully structure code
+procedure_Bb(long long java.math.BigInteger[] )
+  Unable to fully structure code
+
+
+org.bouncycastle.crypto.modes.gcm.Tables64kGCMMultiplier
+----------------------------
+
+init(byte[] )
+  Unable to fully structure code
+
+
+org.bouncycastle.crypto.modes.gcm.Tables8kGCMMultiplier
+----------------------------
+
+init(byte[] )
+  Unable to fully structure code
+
+
+org.bouncycastle.crypto.signers.DSTU4145Signer
+----------------------------
+
+generateSignature(byte[] )
+  Unable to fully structure code
+
+
+org.bouncycastle.x509.util.LDAPStoreHelper
+----------------------------
+
+search(java.lang.String[] java.lang.String java.lang.String[] )
+  Loose catch block
+
+
+org.apache.commons.el.parser.SimpleCharStream
+----------------------------
+
+adjustBeginLineColumn(int int )
+  Unable to fully structure code
+
+
+org.apache.commons.lang3.text.ExtendedMessageFormat
+----------------------------
+
+readArgumentIndex(java.lang.String java.text.ParsePosition )
+  Unable to fully structure code
+
+
+com.steadystate.css.parser.AbstractSACParser
+----------------------------
+
+unescape(java.lang.String boolean )
+  Unable to fully structure code
+
+
+com.steadystate.css.parser.CssCharStream
+----------------------------
+
+adjustBeginLineColumn(int int )
+  Unable to fully structure code
+
+
+com.steadystate.css.parser.SACParserCSS21TokenManager
+----------------------------
+
+jjMoveNfa_0(int int )
+  Exception : java.lang.NullPointerException
+
+
+com.steadystate.css.parser.SACParserCSS3TokenManager
+----------------------------
+
+jjMoveNfa_0(int int )
+  Exception : java.lang.NullPointerException
+
+
+com.google.gson.stream.JsonReader
+----------------------------
+
+doPeek()
+  Unable to fully structure code
+
+
+com.google.common.base.Utf8
+----------------------------
+
+isWellFormedSlowPath(byte[] int int )
+  Unable to fully structure code
+
+
+com.google.common.util.concurrent.AbstractFuture
+----------------------------
+
+removeWaiter(com.google.common.util.concurrent.AbstractFuture$Waiter )
+  Unable to fully structure code
+
+
+com.google.common.util.concurrent.Monitor
+----------------------------
+
+enterWhen(com.google.common.util.concurrent.Monitor$Guard long java.util.concurrent.TimeUnit )
+  Unable to fully structure code
+
+
+com.gargoylesoftware.htmlunit.util.EncodingSniffer
+----------------------------
+
+sniffEncodingFromMetaTag(byte[] )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.classfile.ClassFileWriter
+----------------------------
+
+<clinit>()
+  Loose catch block
+
+
+net.sourceforge.htmlunit.corejs.javascript.Context
+----------------------------
+
+getImplementationVersion()
+  Loose catch block
+
+
+net.sourceforge.htmlunit.corejs.javascript.Interpreter
+----------------------------
+
+doCompare(net.sourceforge.htmlunit.corejs.javascript.Interpreter$CallFrame int java.lang.Object[] double[] int )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.NativeArray
+----------------------------
+
+findPrototypeId(java.lang.String )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.NativeMath
+----------------------------
+
+findPrototypeId(java.lang.String )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.NativeString
+----------------------------
+
+findPrototypeId(java.lang.String )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.TokenStream
+----------------------------
+
+stringToKeyword(java.lang.String )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.regexp.NativeRegExp
+----------------------------
+
+executeREBytecode(net.sourceforge.htmlunit.corejs.javascript.regexp.REGlobalData java.lang.String int )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.regexp.NativeRegExpCtor
+----------------------------
+
+findInstanceIdInfo(java.lang.String )
+  Unable to fully structure code
+
+
+net.sourceforge.htmlunit.corejs.javascript.tools.shell.Global
+----------------------------
+
+pipe(boolean java.io.InputStream java.io.OutputStream )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 11[UNCONDITIONALDOLOOP]
+
+
+org.apache.jasper.compiler.Compiler
+----------------------------
+
+generateJava()
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.JDTCompiler
+----------------------------
+
+findType(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.JspConfig
+----------------------------
+
+processWebDotXml(javax.servlet.ServletContext )
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.JspDocumentParser
+----------------------------
+
+parse(org.apache.jasper.compiler.ParserController java.lang.String java.util.jar.JarFile org.apache.jasper.compiler.Node boolean boolean java.lang.String java.lang.String boolean )
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.JspReader
+----------------------------
+
+pushFile(java.lang.String java.lang.String java.io.InputStreamReader )
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.ParserController
+----------------------------
+
+doParse(java.lang.String org.apache.jasper.compiler.Node java.net.URL )
+  Unable to fully structure code
+
+
+org.apache.jasper.compiler.TldLocationsCache
+----------------------------
+
+processWebDotXml()
+  Unable to fully structure code
+scanJar(java.net.JarURLConnection boolean )
+  Unable to fully structure code
+processTldsInFileSystem(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.jasper.servlet.JspCServletContext
+----------------------------
+
+getResource(java.lang.String )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.core.compiler.CharOperation
+----------------------------
+
+endsWith(char[] char[] )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.SourceElementParser
+----------------------------
+
+parseTypeMemberDeclarations(org.eclipse.jdt.internal.compiler.env.ISourceType org.eclipse.jdt.internal.compiler.env.ICompilationUnit int int boolean )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.AND_AND_Expression
+----------------------------
+
+generateCode(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.codegen.CodeStream boolean )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.ASTNode
+----------------------------
+
+checkInvocationArguments(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.ast.Expression org.eclipse.jdt.internal.compiler.lookup.TypeBinding org.eclipse.jdt.internal.compiler.lookup.MethodBinding org.eclipse.jdt.internal.compiler.ast.Expression[] org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] boolean org.eclipse.jdt.internal.compiler.lookup.InvocationSite )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.AbstractMethodDeclaration
+----------------------------
+
+bindThrownExceptions()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.AnnotationMethodDeclaration
+----------------------------
+
+resolveStatements()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.ArrayInitializer
+----------------------------
+
+generateCode(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.codegen.CodeStream boolean )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.ExplicitConstructorCall
+----------------------------
+
+generateCode(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.codegen.CodeStream )
+  Unable to fully structure code
+resolve(org.eclipse.jdt.internal.compiler.lookup.BlockScope )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.FieldDeclaration
+----------------------------
+
+resolve(org.eclipse.jdt.internal.compiler.lookup.MethodScope )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl82 : TryStatement: try { 1[TRYBLOCK]
+
+
+
+org.eclipse.jdt.internal.compiler.ast.Javadoc
+----------------------------
+
+resolveParamTags(org.eclipse.jdt.internal.compiler.lookup.MethodScope boolean )
+  Unable to fully structure code
+resolveTypeParameterTags(org.eclipse.jdt.internal.compiler.lookup.Scope boolean )
+  Unable to fully structure code
+resolveThrowsTags(org.eclipse.jdt.internal.compiler.lookup.MethodScope boolean )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.OR_OR_Expression
+----------------------------
+
+generateCode(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.codegen.CodeStream boolean )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.QualifiedAllocationExpression
+----------------------------
+
+resolveType(org.eclipse.jdt.internal.compiler.lookup.BlockScope )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.ast.SwitchStatement
+----------------------------
+
+generateCode(org.eclipse.jdt.internal.compiler.lookup.BlockScope org.eclipse.jdt.internal.compiler.codegen.CodeStream )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl90 : TryStatement: try { 1[TRYBLOCK]
+
+resolve(org.eclipse.jdt.internal.compiler.lookup.BlockScope )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl106 : TryStatement: try { 1[TRYBLOCK]
+
+
+
+org.eclipse.jdt.internal.compiler.ast.TypeDeclaration
+----------------------------
+
+resolve()
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [0] lbl15 : TryStatement: try { 2[TRYBLOCK]
+
+
+
+org.eclipse.jdt.internal.compiler.batch.ClasspathDirectory
+----------------------------
+
+directoryList(java.lang.String )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.classfmt.ClassFileReader
+----------------------------
+
+hasNonSyntheticFieldChanges(org.eclipse.jdt.internal.compiler.classfmt.FieldInfo[] org.eclipse.jdt.internal.compiler.classfmt.FieldInfo[] )
+  Unable to fully structure code
+hasNonSyntheticMethodChanges(org.eclipse.jdt.internal.compiler.classfmt.MethodInfo[] org.eclipse.jdt.internal.compiler.classfmt.MethodInfo[] )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.codegen.CodeStream
+----------------------------
+
+exitUserScope(org.eclipse.jdt.internal.compiler.lookup.BlockScope )
+  Unable to fully structure code
+sort(int[] int int int[] )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.flow.UnconditionalFlowInfo
+----------------------------
+
+addInitializationsFrom(org.eclipse.jdt.internal.compiler.flow.FlowInfo )
+  Unable to fully structure code
+addPotentialInitializationsFrom(org.eclipse.jdt.internal.compiler.flow.FlowInfo )
+  Unable to fully structure code
+mergedWith(org.eclipse.jdt.internal.compiler.flow.UnconditionalFlowInfo )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope
+----------------------------
+
+faultInImports()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.MethodVerifier
+----------------------------
+
+checkMethods()
+  Unable to fully structure code
+mustImplementAbstractMethod(org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.MethodVerifier15
+----------------------------
+
+checkTypeVariableMethods()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.ParameterizedGenericMethodBinding
+----------------------------
+
+inferFromArgumentTypes(org.eclipse.jdt.internal.compiler.lookup.Scope org.eclipse.jdt.internal.compiler.lookup.MethodBinding org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] java.util.Map org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.ParameterizedTypeBinding
+----------------------------
+
+memberTypes()
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl19 : TryStatement: try { 1[TRYBLOCK]
+
+
+
+org.eclipse.jdt.internal.compiler.lookup.Scope
+----------------------------
+
+connectTypeVariables(org.eclipse.jdt.internal.compiler.ast.TypeParameter[] )
+  Unable to fully structure code
+findField(org.eclipse.jdt.internal.compiler.lookup.TypeBinding char[] org.eclipse.jdt.internal.compiler.lookup.InvocationSite boolean )
+  Unable to fully structure code
+findMemberType(char[] org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding )
+  Unable to fully structure code
+getBinding(char[] int org.eclipse.jdt.internal.compiler.lookup.InvocationSite boolean )
+  Unable to fully structure code
+getType(char[][] int )
+  Unable to fully structure code
+getTypeOrPackage(char[][] )
+  Unable to fully structure code
+leastContainingTypeArgument(org.eclipse.jdt.internal.compiler.lookup.TypeBinding org.eclipse.jdt.internal.compiler.lookup.TypeBinding org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding int java.util.List )
+  Unable to fully structure code
+lowerUpperBound(org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] java.util.List )
+  Unable to fully structure code
+minimalErasedCandidates(org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] java.util.Map )
+  Unable to fully structure code
+mostSpecificMethodBinding(org.eclipse.jdt.internal.compiler.lookup.MethodBinding[] int org.eclipse.jdt.internal.compiler.lookup.TypeBinding[] org.eclipse.jdt.internal.compiler.lookup.InvocationSite org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.SourceTypeBinding
+----------------------------
+
+fields()
+  Unable to fully structure code
+methods()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.lookup.TypeBinding
+----------------------------
+
+isTypeArgumentContainedBy(org.eclipse.jdt.internal.compiler.lookup.TypeBinding )
+  Unable to fully structure code
+needsUncheckedConversion(org.eclipse.jdt.internal.compiler.lookup.TypeBinding )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.parser.JavadocParser
+----------------------------
+
+checkDeprecation(int )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.parser.Scanner
+----------------------------
+
+checkTaskTag(int int )
+  Unable to fully structure code
+getNextToken()
+  Unable to fully structure code
+jumpOverMethodBody()
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.parser.SourceTypeConverter
+----------------------------
+
+decodeType(char[] int int int )
+  Unable to fully structure code
+
+
+org.eclipse.jdt.internal.compiler.parser.diagnose.DiagnoseParser
+----------------------------
+
+errorRecovery(int boolean )
+  Unable to fully structure code
+parseCheck(int[] int int int )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.io.SelectorManager
+----------------------------
+
+submit(java.lang.Runnable )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.io.WriteFlusher
+----------------------------
+
+onFail(java.lang.Throwable )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.io.ssl.SslConnection
+----------------------------
+
+fill(java.nio.ByteBuffer )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 34[UNCONDITIONALDOLOOP]
+flush(java.nio.ByteBuffer[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 42[SIMPLE_IF_TAKEN]
+
+
+org.openqa.jetty.http.HttpConnection
+----------------------------
+
+handleNext()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[TRYBLOCK]], but top level block is 64[CATCHBLOCK]
+
+
+org.openqa.jetty.http.HttpFields
+----------------------------
+
+hasMoreElements()
+  Unable to fully structure code
+hasMoreElements()
+  Unable to fully structure code
+
+
+org.openqa.jetty.http.HttpRequest
+----------------------------
+
+decodeRequestLine(char[] int )
+  Unable to fully structure code
+
+
+org.openqa.jetty.http.HttpTunnel
+----------------------------
+
+copyBytes(java.io.InputStream java.io.OutputStream long )
+  Unable to fully structure code
+
+
+org.openqa.jetty.http.InclusiveByteRange
+----------------------------
+
+satisfiableRanges(java.util.Enumeration long )
+  Unable to fully structure code
+
+
+org.openqa.jetty.jetty.servlet.AbstractSessionManager
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [7[UNCONDITIONALDOLOOP]], but top level block is 0[TRYBLOCK]
+
+
+org.openqa.jetty.jetty.servlet.ServletHandler
+----------------------------
+
+handle(java.lang.String java.lang.String org.openqa.jetty.http.HttpRequest org.openqa.jetty.http.HttpResponse )
+  Unable to fully structure code
+
+
+org.openqa.jetty.servlet.MultiPartFilter
+----------------------------
+
+doFilter(javax.servlet.ServletRequest javax.servlet.ServletResponse javax.servlet.FilterChain )
+  Unable to fully structure code
+
+
+org.openqa.jetty.servlet.MultiPartRequest
+----------------------------
+
+loadAllParts()
+  Unable to fully structure code
+
+
+org.openqa.jetty.util.Container
+----------------------------
+
+start()
+  Unable to fully structure code
+stop()
+  Unable to fully structure code
+
+
+org.openqa.jetty.util.LineInput
+----------------------------
+
+fill()
+  Unable to fully structure code
+fillLine(int )
+  Unable to fully structure code
+
+
+org.openqa.jetty.util.URI
+----------------------------
+
+decodePath(java.lang.String )
+  Unable to fully structure code
+
+
+org.openqa.jetty.xml.XmlParser
+----------------------------
+
+hasNext()
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.CookieCutter
+----------------------------
+
+parseFields()
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.HttpChannel
+----------------------------
+
+handle()
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.HttpOutput
+----------------------------
+
+onCompleteSuccess()
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.InclusiveByteRange
+----------------------------
+
+satisfiableRanges(java.util.Enumeration<java.lang.String> long )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.Response
+----------------------------
+
+sendError(int java.lang.String )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.handler.DebugHandler
+----------------------------
+
+handle(java.lang.String org.eclipse.jetty.server.Request javax.servlet.http.HttpServletRequest javax.servlet.http.HttpServletResponse )
+  Loose catch block
+
+
+org.eclipse.jetty.server.session.HashSessionManager
+----------------------------
+
+restoreSession(java.lang.String )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.server.session.JDBCSessionIdManager
+----------------------------
+
+exists(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 8[TRYBLOCK]
+
+
+org.eclipse.jetty.servlets.DoSFilter
+----------------------------
+
+doFilter(javax.servlet.http.HttpServletRequest javax.servlet.http.HttpServletResponse javax.servlet.FilterChain )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.servlets.QoSFilter
+----------------------------
+
+doFilter(javax.servlet.ServletRequest javax.servlet.ServletResponse javax.servlet.FilterChain )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.util.BlockingArrayQueue
+----------------------------
+
+poll(long java.util.concurrent.TimeUnit )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 6[WHILELOOP]
+remove(java.lang.Object )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 7[CATCHBLOCK]
+
+
+org.eclipse.jetty.util.CompletableCallback
+----------------------------
+
+succeeded()
+  Unable to fully structure code
+
+
+org.eclipse.jetty.util.IteratingCallback
+----------------------------
+
+processing()
+  Unable to fully structure code
+failed(java.lang.Throwable )
+  Unable to fully structure code
+
+
+org.eclipse.jetty.util.thread.QueuedThreadPool
+----------------------------
+
+run()
+  Loose catch block
+
+
+junit.runner.BaseTestRunner
+----------------------------
+
+readPreferences()
+  Loose catch block
+
+
+mx4j.tools.adaptor.http.HttpAdaptor
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+mx4j.tools.config.DefaultConfigurationBuilder
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+mx4j.tools.remote.caucho.CauchoClientInvoker
+----------------------------
+
+invoke(java.lang.Object java.lang.reflect.Method java.lang.Object[] )
+  Loose catch block
+
+
+org.cyberneko.html.HTMLScanner
+----------------------------
+
+scanName(boolean )
+  Unable to fully structure code
+scanComment()
+  Unable to fully structure code
+
+
+org.cyberneko.html.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.jboss.netty.channel.DefaultChannelFuture
+----------------------------
+
+await0(long boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [14[DOLOOP]], but top level block is 7[TRYBLOCK]
+
+
+org.jboss.netty.channel.group.DefaultChannelGroupFuture
+----------------------------
+
+await0(long boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [12[DOLOOP]], but top level block is 6[TRYBLOCK]
+
+
+org.jboss.netty.channel.local.DefaultLocalChannel
+----------------------------
+
+closeNow(org.jboss.netty.channel.ChannelFuture )
+  Unable to fully structure code
+
+
+org.jboss.netty.channel.socket.nio.NioProviderMetadata
+----------------------------
+
+autodetect()
+  Unable to fully structure code
+
+
+org.jboss.netty.channel.socket.nio.NioServerSocketPipelineSink
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+org.jboss.netty.channel.socket.oio.AbstractOioWorker
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Missing node tying up JSR block
+
+
+org.jboss.netty.channel.socket.oio.OioWorker
+----------------------------
+
+write(org.jboss.netty.channel.socket.oio.OioSocketChannel org.jboss.netty.channel.ChannelFuture java.lang.Object )
+  Unable to fully structure code
+
+
+org.jboss.netty.handler.codec.http.HttpMessageDecoder
+----------------------------
+
+decode(org.jboss.netty.channel.ChannelHandlerContext org.jboss.netty.channel.Channel org.jboss.netty.buffer.ChannelBuffer org.jboss.netty.handler.codec.http.HttpMessageDecoder$State )
+  Unable to fully structure code
+
+
+org.jboss.netty.handler.ssl.SslHandler
+----------------------------
+
+wrap(org.jboss.netty.channel.ChannelHandlerContext org.jboss.netty.channel.Channel )
+  Unable to fully structure code
+
+
+org.jboss.netty.util.internal.jzlib.Deflate
+----------------------------
+
+deflate_stored(int )
+  Unable to fully structure code
+deflate_fast(int )
+  Unable to fully structure code
+
+
+org.jboss.netty.util.internal.jzlib.InfCodes
+----------------------------
+
+inflate_fast(int int int[] int int[] int org.jboss.netty.util.internal.jzlib.InfBlocks org.jboss.netty.util.internal.jzlib.ZStream )
+  Unable to fully structure code
+
+
+org.jboss.netty.util.internal.jzlib.Inflate
+----------------------------
+
+inflate(org.jboss.netty.util.internal.jzlib.ZStream int )
+  Unable to fully structure code
+
+
+org.apache.xml.serializer.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.testng.internal.Invoker
+----------------------------
+
+invokeMethod(java.lang.Object org.testng.ITestNGMethod java.lang.Object[] int org.testng.xml.XmlSuite java.util.Map<java.lang.String, java.lang.String> org.testng.ITestClass org.testng.ITestNGMethod[] org.testng.ITestNGMethod[] org.testng.internal.ConfigurationGroupMethods org.testng.internal.Invoker$FailureContext )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.apache.bcel.generic.MethodGen
+----------------------------
+
+removeNOPs()
+  Unable to fully structure code
+
+
+org.apache.regexp.RE
+----------------------------
+
+matchNodes(int int int )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+org.apache.regexp.RECompiler
+----------------------------
+
+atom()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+closure(int[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+delete(int )
+  Unable to fully structure code
+
+
+org.apache.regexp.RETest
+----------------------------
+
+runAutomatedTests(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.extensions.ExtensionHandlerJavaClass
+----------------------------
+
+callFunction(java.lang.String java.util.Vector java.lang.Object org.apache.xalan.extensions.ExpressionContext )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 5[TRYBLOCK]
+
+
+org.apache.xalan.extensions.MethodResolver
+----------------------------
+
+scoreMatch(java.lang.Class[] int java.lang.Object[] int )
+  Unable to fully structure code
+convert(java.lang.Object java.lang.Class )
+  Unable to fully structure code
+
+
+org.apache.xalan.extensions.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProviderName(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.lib.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.lib.sql.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.templates.AVT
+----------------------------
+
+<init>(org.apache.xalan.processor.StylesheetHandler java.lang.String java.lang.String java.lang.String java.lang.String org.apache.xalan.templates.ElemTemplateElement )
+  Unable to fully structure code
+
+
+org.apache.xalan.templates.ElemApplyTemplates
+----------------------------
+
+transformSelectedNodes(org.apache.xalan.transformer.TransformerImpl )
+  Unable to fully structure code
+
+
+org.apache.xalan.templates.ElemCopyOf
+----------------------------
+
+execute(org.apache.xalan.transformer.TransformerImpl )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+org.apache.xalan.templates.TemplateList
+----------------------------
+
+getTemplateFast(org.apache.xpath.XPathContext int int org.apache.xml.utils.QName int boolean org.apache.xml.dtm.DTM )
+  Unable to fully structure code
+
+
+org.apache.xalan.transformer.TransformerIdentityImpl
+----------------------------
+
+transform(javax.xml.transform.Source javax.xml.transform.Result )
+  Unable to fully structure code
+
+
+org.apache.xalan.xslt.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.cmdline.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.compiler.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.compiler.util.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.dom.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.runtime.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xalan.xsltc.trax.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xml.dtm.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xml.dtm.ref.DTMDefaultBaseIterators
+----------------------------
+
+next()
+  Unable to fully structure code
+
+
+org.apache.xml.dtm.ref.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xml.dtm.ref.sax2dtm.SAX2DTM2
+----------------------------
+
+getTypedAttribute(int int )
+  Unable to fully structure code
+next()
+  Unable to fully structure code
+
+
+org.apache.xml.utils.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xpath.functions.FuncSystemProperty
+----------------------------
+
+execute(org.apache.xpath.XPathContext )
+  Unable to fully structure code
+
+
+org.apache.xpath.functions.ObjectFactory
+----------------------------
+
+lookUpFactoryClassName(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProviderName(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.html.dom.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.dom.CoreDOMImplementationImpl
+----------------------------
+
+getValidator(java.lang.String java.lang.String )
+  Unable to fully structure code
+getDTDLoader(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.dom.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.dom.RangeImpl
+----------------------------
+
+traverseRightBoundary(org.w3c.dom.Node int )
+  Unable to fully structure code
+traverseLeftBoundary(org.w3c.dom.Node int )
+  Unable to fully structure code
+getRootContainer(org.w3c.dom.Node )
+  Unable to fully structure code
+isLegalContainer(org.w3c.dom.Node )
+  Unable to fully structure code
+
+
+org.apache.xerces.dom.TextImpl
+----------------------------
+
+canModifyPrev(org.w3c.dom.Node )
+  Unable to fully structure code
+canModifyNext(org.w3c.dom.Node )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.XML11EntityScanner
+----------------------------
+
+scanNmtoken()
+  Unable to fully structure code
+scanName()
+  Unable to fully structure code
+scanNCName()
+  Unable to fully structure code
+scanQName(org.apache.xerces.xni.QName )
+  Unable to fully structure code
+scanContent(org.apache.xerces.xni.XMLString )
+  Unable to fully structure code
+scanLiteral(int org.apache.xerces.xni.XMLString )
+  Unable to fully structure code
+scanData(java.lang.String org.apache.xerces.util.XMLStringBuffer )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.XMLDTDScannerImpl
+----------------------------
+
+scanTextDecl()
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.XMLDocumentFragmentScannerImpl
+----------------------------
+
+dispatch(boolean )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.XMLDocumentScannerImpl
+----------------------------
+
+dispatch(boolean )
+  Unable to fully structure code
+dispatch(boolean )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.XMLEntityScanner
+----------------------------
+
+scanName()
+  Unable to fully structure code
+scanNCName()
+  Unable to fully structure code
+scanContent(org.apache.xerces.xni.XMLString )
+  Unable to fully structure code
+scanLiteral(int org.apache.xerces.xni.XMLString )
+  Unable to fully structure code
+scanData(java.lang.String org.apache.xerces.util.XMLStringBuffer )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.dv.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.dv.dtd.ListDatatypeValidator
+----------------------------
+
+validate(java.lang.String org.apache.xerces.impl.dv.ValidationContext )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.dv.xs.DecimalDV
+----------------------------
+
+initD(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.dv.xs.XSSimpleTypeDecl
+----------------------------
+
+normalize(java.lang.String short )
+  Unable to fully structure code
+normalize(java.lang.Object short )
+  Unable to fully structure code
+derivedFromType(org.apache.xerces.xs.XSTypeDefinition short )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xpath.XPath
+----------------------------
+
+scanNCName(java.lang.String int int )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xpath.regex.ParserForXMLSchema
+----------------------------
+
+parseCharacterClass(boolean )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xpath.regex.REUtil
+----------------------------
+
+main(java.lang.String[] )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xpath.regex.RegexParser
+----------------------------
+
+processCondition()
+  Unable to fully structure code
+processBackreference()
+  Unable to fully structure code
+parseFactor()
+  Unable to fully structure code
+parseCharacterClass(boolean )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xpath.regex.RegularExpression
+----------------------------
+
+matches(char[] int int org.apache.xerces.impl.xpath.regex.Match )
+  Unable to fully structure code
+matches(java.lang.String int int org.apache.xerces.impl.xpath.regex.Match )
+  Unable to fully structure code
+match(org.apache.xerces.impl.xpath.regex.RegularExpression$Context org.apache.xerces.impl.xpath.regex.Op int int int )
+  Unable to fully structure code
+matches(java.text.CharacterIterator org.apache.xerces.impl.xpath.regex.Match )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.XMLSchemaValidator
+----------------------------
+
+processAttributes(org.apache.xerces.xni.QName org.apache.xerces.xni.XMLAttributes org.apache.xerces.impl.xs.XSAttributeGroupDecl )
+  Unable to fully structure code
+contains()
+  Unable to fully structure code
+contains(org.apache.xerces.impl.xs.XMLSchemaValidator$ValueStoreBase )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.XSModelImpl
+----------------------------
+
+getComponentsByNamespace(short java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.identity.XPathMatcher
+----------------------------
+
+startElement(org.apache.xerces.xni.QName org.apache.xerces.xni.XMLAttributes )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.traversers.XSAttributeChecker
+----------------------------
+
+checkAttributes(org.w3c.dom.Element boolean org.apache.xerces.impl.xs.traversers.XSDocumentInfo boolean )
+  Unable to fully structure code
+normalize(java.lang.String short )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.traversers.XSDAbstractIDConstraintTraverser
+----------------------------
+
+traverseIdentityConstraint(org.apache.xerces.impl.xs.identity.IdentityConstraint org.w3c.dom.Element org.apache.xerces.impl.xs.traversers.XSDocumentInfo java.lang.Object[] )
+  Unable to fully structure code
+
+
+org.apache.xerces.impl.xs.traversers.XSDHandler
+----------------------------
+
+constructTrees(org.w3c.dom.Element java.lang.String org.apache.xerces.impl.xs.XSDDescription boolean )
+  Unable to fully structure code
+
+
+org.apache.xerces.parsers.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.util.URI
+----------------------------
+
+initializePath(java.lang.String int )
+  Unable to fully structure code
+
+
+org.apache.xerces.xinclude.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xerces.xinclude.XIncludeHandler
+----------------------------
+
+handleIncludeElement(org.apache.xerces.xni.XMLAttributes )
+  Loose catch block
+
+
+org.apache.xerces.xpointer.ElementSchemePointer
+----------------------------
+
+scanNCName(java.lang.String int int )
+  Unable to fully structure code
+
+
+org.apache.xerces.xpointer.XPointerHandler
+----------------------------
+
+scanNCName(java.lang.String int int )
+  Unable to fully structure code
+
+
+org.apache.xml.serialize.BaseMarkupSerializer
+----------------------------
+
+printText(char[] int int boolean boolean )
+  Unable to fully structure code
+
+
+org.apache.xml.serialize.HTMLdtd
+----------------------------
+
+initialize()
+  Unable to fully structure code
+
+
+org.apache.xml.serialize.ObjectFactory
+----------------------------
+
+createObject(java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.apache.xml.serialize.XML11Serializer
+----------------------------
+
+printText(char[] int int boolean boolean )
+  Unable to fully structure code
+
+
+org.apache.xml.serialize.XMLSerializer
+----------------------------
+
+printText(char[] int int boolean boolean )
+  Unable to fully structure code
+
+
+javax.xml.datatype.FactoryFinder
+----------------------------
+
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+javax.xml.parsers.FactoryFinder
+----------------------------
+
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+javax.xml.stream.FactoryFinder
+----------------------------
+
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+javax.xml.transform.FactoryFinder
+----------------------------
+
+findJarServiceProvider(java.lang.String )
+  Unable to fully structure code
+
+
+org.xml.sax.helpers.ParserAdapter
+----------------------------
+
+startElement(java.lang.String org.xml.sax.AttributeList )
+  Unable to fully structure code
+
+
+org.xml.sax.helpers.XMLReaderFactory
+----------------------------
+
+createXMLReader()
+  Unable to fully structure code
