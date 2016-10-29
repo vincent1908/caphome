@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54973" started-at="2016-10-29T17:41:19Z" finished-at="2016-10-29T17:42:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54973" started-at="2016-10-29T17:41:19Z" finished-at="2016-10-29T17:42:14Z">
+      <class name="demo.SeleniumFrmaework">
+        <test-method status="PASS" signature="htmlElements()[pri:0, instance:demo.SeleniumFrmaework@6e059e40]" name="htmlElements" duration-ms="54955" started-at="2016-10-29T23:11:19Z" finished-at="2016-10-29T23:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlElements -->
+      </class> <!-- demo.SeleniumFrmaework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
