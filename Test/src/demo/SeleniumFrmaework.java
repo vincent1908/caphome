@@ -48,7 +48,10 @@ public class SeleniumFrmaework extends BaseTest {
 	s.selectByVisibleText("Option 3");
 	Thread.sleep(5000);
 
-	
+	//Verification
+	driver.findElement(By.xpath(".//*[@id='vfb-3']")).sendKeys("19");
+	driver.findElement(By.xpath(".//*[@id='vfb-4']")).click();
+
 		closeBrow();
 	}
 
