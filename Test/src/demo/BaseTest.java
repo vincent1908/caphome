@@ -5,6 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BaseTest {
 	WebDriver driver;
+	String url;
 
 	public void openBrow() {
 		driver = new FirefoxDriver();
