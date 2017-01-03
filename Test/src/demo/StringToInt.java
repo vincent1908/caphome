@@ -11,6 +11,12 @@ public class StringToInt {
 		
 //		}
 		
+		final String[] strings = {"1", "2"};
+	    final int[] ints = new int[strings.length];
+	    for (int i=0; i < strings.length; i++) {
+	        ints[i] = Integer.parseInt(strings[i]);
+	        System.out.println(ints[i]);
+	    }
 		
 		String a ="1";
 		int b = Integer.parseInt(a);
