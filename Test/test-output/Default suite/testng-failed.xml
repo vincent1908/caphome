@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="demo.FlipkartDemo">
+      <class name="demo.PractiseSelenium">
         <methods>
-          <include name="New"/>
+          <include name="firstTest"/>
         </methods>
-      </class> <!-- demo.FlipkartDemo -->
+      </class> <!-- demo.PractiseSelenium -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
