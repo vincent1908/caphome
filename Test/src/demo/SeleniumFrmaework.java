@@ -7,7 +7,9 @@ import org.testng.annotations.Test;
 
 public class SeleniumFrmaework extends BaseTest {
 	
-
+//String URL = url;
+//URL = "http://www.seleniumframework.com/Practiceform/";
+//String url = "http://www.seleniumframework.com/Practiceform/";
 	@Test
 	public void htmlElements() throws Exception {
 		openBrow();
