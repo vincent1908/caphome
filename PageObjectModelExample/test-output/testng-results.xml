@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="0" passed="0">
+<testng-results skipped="1" failed="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10" started-at="2016-10-19T12:36:29Z" finished-at="2016-10-19T12:36:29Z">
+  <suite name="Default suite" duration-ms="77" started-at="2017-05-09T17:09:35Z" finished-at="2017-05-09T17:09:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="10" started-at="2016-10-19T12:36:29Z" finished-at="2016-10-19T12:36:29Z">
+    <test name="Default test" duration-ms="77" started-at="2017-05-09T17:09:35Z" finished-at="2017-05-09T17:09:35Z">
+      <class name="com.pack.common.tests.BasePageTest">
+        <test-method status="FAIL" signature="initializeTestBaseSetup(java.lang.String, java.lang.String)[pri:0, instance:com.pack.common.tests.BasePageTest@38bf5400]" name="initializeTestBaseSetup" is-config="true" duration-ms="0" started-at="2017-05-09T22:39:35Z" finished-at="2017-05-09T22:39:35Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browserType' is required by @Configuration on method initializeTestBaseSetup but has not been marked @Optional or defined
+in /private/var/folders/h3/f9f_38q12mz28hstwjhknfv40000gn/T/testng-eclipse--438782161/testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browserType' is required by @Configuration on method initializeTestBaseSetup but has not been marked @Optional or defined
+in /private/var/folders/h3/f9f_38q12mz28hstwjhknfv40000gn/T/testng-eclipse--438782161/testng-customsuite.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:154)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:361)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:84)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:202)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:143)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:178)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:778)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1225)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1150)
+	at org.testng.TestNG.runSuites(TestNG.java:1075)
+	at org.testng.TestNG.run(TestNG.java:1047)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:126)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:137)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:58)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.pack.common.tests.BasePageTest@38bf5400]" name="setUp" is-config="true" duration-ms="0" started-at="2017-05-09T22:39:35Z" finished-at="2017-05-09T22:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="verifyHomePage()[pri:0, instance:com.pack.common.tests.BasePageTest@38bf5400]" name="verifyHomePage" duration-ms="8" started-at="2017-05-09T22:39:35Z" finished-at="2017-05-09T22:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.pack.common.tests.BasePageTest@38bf5400]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-05-09T22:39:35Z" finished-at="2017-05-09T22:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pack.common.tests.BasePageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

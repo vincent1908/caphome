@@ -5,7 +5,7 @@
     <classes>
       <class name="testCases.HybridExecuteTest">
         <methods>
-          <include name="testLogin"/>
+          <include name="testLogin" invocation-numbers="44 45 46 47 48 49 50 51 52 53 55 61 62 63 64 65 66 67 68 69 70 72"/>
         </methods>
       </class> <!-- testCases.HybridExecuteTest -->
     </classes>
