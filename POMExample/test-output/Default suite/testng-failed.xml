@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="test.NoPOMTest99GuruLogin">
+      <class name="test.Test99GuruLoginWithPageFactory">
         <methods>
+          <include name="setup"/>
           <include name="test_Home_Page_Appear_Correct"/>
         </methods>
-      </class> <!-- test.NoPOMTest99GuruLogin -->
+      </class> <!-- test.Test99GuruLoginWithPageFactory -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
