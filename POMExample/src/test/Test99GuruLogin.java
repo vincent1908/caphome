@@ -10,12 +10,14 @@ import org.testng.annotations.Test;
 
 import pages.Guru99HomePage;
 import pages.Guru99Login;
+import utility.ConfigReader;
 
 public class Test99GuruLogin {
 
 	WebDriver driver;
 	Guru99Login objLogin;
 	Guru99HomePage objHomePage;
+	
 	
 	@BeforeTest
 	public void setup(){
@@ -32,13 +34,15 @@ public class Test99GuruLogin {
 	 */
 	@Test(priority=0)
 	public void test_Home_Page_Appear_Correct(){
+		ConfigReader con = new ConfigReader();
+
 		//Create Login Page object
 	objLogin = new Guru99Login(driver);
 	//Verify login page title
 	String loginPageTitle = objLogin.getLoginTitle();
 	Assert.assertTrue(loginPageTitle.toLowerCase().contains("guru99 bank"));
 	//login to application
-	objLogin.loginToGuru99("mngr77386", "UdYtEbu");
+	objLogin.loginToGuru99(con.getUserName(),con.getPassWord());
 	// go the next page
 	objHomePage = new Guru99HomePage(driver);
 	//Verify home page
