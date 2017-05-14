@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9042" started-at="2017-05-13T13:33:41Z" finished-at="2017-05-13T13:33:50Z">
+  <suite name="Default suite" duration-ms="7931" started-at="2017-05-14T21:13:29Z" finished-at="2017-05-14T21:13:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9042" started-at="2017-05-13T13:33:41Z" finished-at="2017-05-13T13:33:50Z">
+    <test name="Default test" duration-ms="7931" started-at="2017-05-14T21:13:29Z" finished-at="2017-05-14T21:13:37Z">
       <class name="test.Test99GuruLogin">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.Test99GuruLogin@2ab01778]" name="setup" is-config="true" duration-ms="6665" started-at="2017-05-13T19:03:41Z" finished-at="2017-05-13T19:03:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Test99GuruLogin@1d3d68df]" name="setup" is-config="true" duration-ms="7667" started-at="2017-05-15T02:43:29Z" finished-at="2017-05-15T02:43:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:test.Test99GuruLogin@2ab01778]" name="test_Home_Page_Appear_Correct" duration-ms="2262" started-at="2017-05-13T19:03:47Z" finished-at="2017-05-13T19:03:50Z">
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:test.Test99GuruLogin@1d3d68df]" name="test_Home_Page_Appear_Correct" duration-ms="244" started-at="2017-05-15T02:43:37Z" finished-at="2017-05-15T02:43:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Home_Page_Appear_Correct -->

@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 import pages.Guru99HomePage;
 import pages.Guru99Login;
 import utility.ConfigReader;
+import utility.ConfigWriter;
 
 public class Test99GuruLogin {
 
@@ -35,6 +36,10 @@ public class Test99GuruLogin {
 	@Test(priority=0)
 	public void test_Home_Page_Appear_Correct(){
 		ConfigReader con = new ConfigReader();
+		//ConfigWriter con1 = new ConfigWriter();
+		//con1.setPassWord();
+		//con1.setUserName();
+		System.out.println("----------------");
 
 		//Create Login Page object
 	objLogin = new Guru99Login(driver);
@@ -45,6 +50,8 @@ public class Test99GuruLogin {
 	objLogin.loginToGuru99(con.getUserName(),con.getPassWord());
 	// go the next page
 	objHomePage = new Guru99HomePage(driver);
+
+	
 	//Verify home page
 	//Assert.assertTrue(objHomePage.getHomePageDashboardUserName().toLowerCase().contains("manger id : mgr123"));
 	driver.close();

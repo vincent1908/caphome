@@ -12,6 +12,7 @@ public class Guru99Login {
 	 * All WebElements are identified by @FindBy annotation
 	 */
 	WebDriver driver;
+	
 	@FindBy(name="uid")
 	WebElement user99GuruName;
 	
@@ -29,10 +30,10 @@ public class Guru99Login {
 		//This initElements method will create  all WebElements
 		PageFactory.initElements(driver, this);
 	}
+	
 	//Set user name in textbox
 	public void setUserName(String strUserName){
-		user99GuruName.sendKeys(strUserName);
-		
+		user99GuruName.sendKeys(strUserName);	
 	}
 	
 	//Set password in password textbox
@@ -42,12 +43,12 @@ public class Guru99Login {
 	
 	//Click on login button
 	public void clickLogin(){
-			login.click();
+	login.click();
 	}
 	
 	//Get the title of Login Page
 	public String getLoginTitle(){
-	 return	titleText.getText();
+	return	titleText.getText();
 	}
 	/**
 	 * This POM method will be exposed in test case to login in the application
