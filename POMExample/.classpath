@@ -7,6 +7,6 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/Gregoryvincent/Downloads/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Gregoryvincent/Downloads/jar/selenium-server-standalone-2.52.0 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
